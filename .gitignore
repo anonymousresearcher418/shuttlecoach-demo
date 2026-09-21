@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.tsbuildinfo
+private_data/
+node_modules_broken/
+public/data/review_bundle.json
+.env
+.env.*
+!.env.example
+.wrangler/
+supabase/
+.DS_Store
+public/data/*copy*.json
+scripts/

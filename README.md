@@ -1,7 +1,7 @@
-# ShuttleCoach public showcase
+# BIC public showcase
 
 Static, bilingual examples accompanying an academic badminton-coaching paper.
-The site compares coaching outputs from ShuttleCoach, ChainBMD, and two direct
+The site compares coaching outputs from BIC, ChainBMD, and two direct
 multimodal-LLM conditions over a small, explicitly selected stroke set.
 
 The deployed application has no authentication, database, analytics, or
